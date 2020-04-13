@@ -1,0 +1,15 @@
+.input-container {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.list-container {
+  font-weight: 700;
+  font-size: 1.7rem;
+  list-style-type: none;
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through;
+}
